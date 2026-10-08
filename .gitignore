@@ -16,3 +16,7 @@ coverage/
 # SO
 .DS_Store
 Thumbs.db
+
+# Archivos de entrega al aula virtual (no se suben a GitHub)
+*.bundle
+sesion-*.zip
